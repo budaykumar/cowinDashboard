@@ -1,0 +1,12 @@
+.plusLogo {
+  height: 40px;
+  width: 40px;
+}
+.mainHeading {
+  color: aliceblue;
+}
+.bgContainer {
+  background-color: navy;
+
+  padding: 50px;
+}

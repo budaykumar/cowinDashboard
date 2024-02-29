@@ -1,0 +1,7 @@
+.VaccGenContainer {
+  display: flex;
+  flex-direction: column;
+  background-color: #1c1c2b;
+  margin-bottom: 20px;
+  padding: 20px;
+}
